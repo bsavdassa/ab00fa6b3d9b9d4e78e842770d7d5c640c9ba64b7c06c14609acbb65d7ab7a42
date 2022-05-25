@@ -9699,7 +9699,7 @@ footer {
   margin-right: -15vh;
 }
 .loader_wrapper {
-  display: none;
+  /* display: none; */
 }
 /*===================main scss sources end================*/
 
