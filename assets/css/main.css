@@ -9698,6 +9698,9 @@ footer {
   height: 420px;
   margin-right: -15vh;
 }
+.loader_wrapper {
+  display: none;
+}
 /*===================main scss sources end================*/
 
 /*# sourceMappingURL=main.css.map */
