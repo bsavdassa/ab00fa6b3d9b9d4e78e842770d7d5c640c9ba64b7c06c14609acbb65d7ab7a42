@@ -9704,3 +9704,15 @@ footer {
 /*===================main scss sources end================*/
 
 /*# sourceMappingURL=main.css.map */
+#rightIMG, #leftIMG{
+  position: absolute;
+  bottom: -205%;
+  width: 300px;
+}
+#rightIMG {
+  right: 10%;
+}
+#leftIMG {
+  left: 10%;
+  bottom: -212%;
+}
