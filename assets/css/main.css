@@ -9699,7 +9699,19 @@ footer {
   margin-right: -15vh;
 }
 .loader_wrapper {
-  /* display: none; */
+  display: none;
+}
+#rightIMG, #leftIMG {
+  width: 300px;
+  position: absolute;
+  bottom: -210%;
+}
+#rightIMG {
+  right: 10%;
+}
+#leftIMG {
+  left: 10%;
+  bottom: -215%
 }
 /*===================main scss sources end================*/
 
