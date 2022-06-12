@@ -3090,9 +3090,9 @@ section .container .experience {
           padding: 12px 20px; } }
 
 .dark section .container .experience {
-  background-color: #fff;
-  -webkit-box-shadow: 0px 0px 15px #f0f0f9;
-  box-shadow: 0px 0px 15px #f0f0f9;
+  background-color: transparent;
+  /* -webkit-box-shadow: 0px 0px 15px #f0f0f9; */
+  /* box-shadow: 0px 0px 15px #f0f0f9; */
   margin-bottom: 15px; }
 
 /*====experience section end====*/
@@ -9729,7 +9729,7 @@ footer {
   margin-right: -15vh;
 }
 .loader_wrapper {
- display: none;
+ /* display: none; */
 }
 /*===================main scss sources end================*/
 
@@ -9745,4 +9745,14 @@ footer {
 #leftIMG {
   left: -8%;
   bottom: -212%;
+}
+/* body {
+  background-image: linear-gradient(​#66ccff, ​#66ccff);
+}
+.dark {
+  background-image: linear-gradient(​#66ccff, ​#66ccff);
+  background-color: #66ccff;
+} */
+a,h1,h2,h3,h4, h5, h6,p{
+  /* color: #fff; */
 }
