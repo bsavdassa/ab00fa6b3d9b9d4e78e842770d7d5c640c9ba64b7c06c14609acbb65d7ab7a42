@@ -20354,7 +20354,7 @@ footer .container .footer_copyright .col-lg-5 {
 
 @media only screen and (min-width: 1920px) {
   .home_banner_wrapper {
-    background-image: url("../images/home_banner/home_banner_lg_bg.png");
+    background-image: url("../images/home_banner/home_banner_lg_bg.gif");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center center;
@@ -20476,7 +20476,7 @@ footer .container .footer_copyright .col-lg-5 {
   }
 
   .home_banner_wrapper {
-    background-image: url("../images/home_banner/home_banner_lg_bg.png");
+    background-image: url("../images/home_banner/home_banner_lg_bg.gif");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center top;
@@ -26019,13 +26019,14 @@ footer .container .footer_copyright .col-lg-5 {
   left: 5%;
   bottom: -212%;
 }
-/* body {
+body {
   background-image: linear-gradient(​#66ccff, ​#66ccff);
+  background-color: #66ccff;
 }
 .dark {
   background-image: linear-gradient(​#66ccff, ​#66ccff);
   background-color: #66ccff;
-} */
+}
 a,
 h1,
 h2,
