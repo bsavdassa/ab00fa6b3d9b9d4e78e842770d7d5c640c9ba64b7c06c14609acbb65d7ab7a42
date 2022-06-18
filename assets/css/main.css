@@ -26003,7 +26003,7 @@ footer .container .footer_copyright .col-lg-5 {
   margin-right: -15vh;
 }
 .loader_wrapper {
-  display: none;
+  /* display: none; */
 }
 /*===================main scss sources end================*/
 #rightIMG,
